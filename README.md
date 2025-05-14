@@ -1,9 +1,3 @@
-# Yavya Sharma - Full Stack Developer
-
-<div align="center">
-  <img src="profile.jpg" alt="Yavya Sharma" width="200" style="border-radius: 50%;" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Yavya Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
