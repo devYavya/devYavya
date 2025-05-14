@@ -25,7 +25,7 @@ Passionate Full Stack Developer with expertise in creating innovative digital so
   - Leading a team of talented professionals
   - Delivering innovative technology solutions for businesses
 
-- **A4 Analyst at Capgemini** (2023-2025)
+- **A4 Analyst at Capgemini** (2025-Present)
   - Developed enterprise-level software solutions
   - Collaborated with cross-functional teams
   - Implemented technical solutions for global clients
